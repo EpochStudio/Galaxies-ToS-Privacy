@@ -1,6 +1,7 @@
 ▬▬▬▬▬▬▬ [ Terms Of Service ] ▬▬▬▬▬▬▬
 
 Thanks for using EternalGaius! By using EternalGaius, which is collectively referred to as the "Service" further, you agree with following all the Terms below.
+
 ▬▬▬▬▬▬▬ [ Terms ] ▬▬▬▬▬▬▬
 
 1 - By using the "service", you automatically agree that you accept the Discord ToS. We will suspend your access from using the Service if you violate the Discord ToS in any way.
