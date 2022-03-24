@@ -26,7 +26,7 @@ You can also request a JSON file/an erase of your user-profile configuration.
 
 To receive these data, please contact a "service" developer.
 
-## Where and When we will send the Requested Data
+## Regarding the Requested Data
 
 Operating as a Discord Bot, we will send your Requested Data, to the requester's DMs ("Direct Message") via the service (EternalGaius), and will send your data within 5 days, if you did not receive the data you requested within 5 days, please reach out to a "service" Developer.
 
