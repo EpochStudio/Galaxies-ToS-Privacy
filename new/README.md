@@ -1,0 +1,1 @@
+This folder is for upcoming changes regarding the Privacy Policy and Terms of Service. Anything here will not be effective until an announcement in the official [support server](https://discord.gg/9PnUBeu) is made
