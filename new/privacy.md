@@ -14,7 +14,7 @@ The "service" uses the Information you provide us only for improving and maintai
 
 Normally we only collect the data that the Discord API has given to us, however when getting dedicated assistance/support from the "service" developers, we may ask you for your Name, Email Address ("Personal Information"), and/or any other information that you wish to provide us with. If you wish not to provide these information, you may tell the "service" Developer that is currently assisting you.
 
-Any Personal Data we collect about you will not be kept permanent, the Personal Data you provide us will be immediately destroyed after the "Support/Assistance" regarding the "service"
+Any Personal Data we collect will not be kept permanent, the Personal Data you provide us will be immediately destroyed after the "Support/Assistance" regarding the "service"
 
 ## What rights you have over your data
 
