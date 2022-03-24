@@ -10,7 +10,7 @@ By using EternalGaius (as referred - "service"), you consent to our Privacy Poli
 
 ## Data We Collect and Why we collect it
 
-The "serice" uses the Infornmation you provide us only for improving and maintaining itself. By using the "service", you agree to the collectiong and use of the information in accordance with this policy.
+The "service" uses the Infornmation you provide us only for improving and maintaining itself. By using the "service", you agree to the collectiong and use of the information in accordance with this policy.
 
 Nornmally we only collect the data that the Discord API has given to us, however when getting dedicated assistance/support from the "service" developers, we may ask you for your Name, Email Address ("Personal Information"), and any other information that you wish to provide us with. If you wish not to provide these information, you may tell the "service" Developer that is currently assisting you.
 
