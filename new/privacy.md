@@ -16,7 +16,7 @@ Normally we only collect the data that the Discord API has given to us, however 
 
 Any Personal Data we collect will not be kept permanent, the Personal Data you provide us will be immediately destroyed after the "Support/Assistance" regarding the "service"
 
-## What rights you have over your data
+## The rights you have over your data
 
 If you have connected the "service" to your Discord Server, you can request to receive a JSON File of the Server-side configuration data we hold about the Discord Server. You can also requst that we erase any data we hold about you by removing the "service" from your Discord Server. This will remove server-side configurations stored in our databases.
 
