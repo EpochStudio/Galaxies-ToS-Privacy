@@ -18,11 +18,12 @@ Any Personal Data we collect will not be kept permanent, the Personal Data you p
 
 ## The rights you have over your data
 
-If you have connected the "service" to your Discord Server, you can request to receive a JSON File of the Server-side configuration data we hold about the Discord Server. You can also requst that we erase any data we hold about you by removing the "service" from your Discord Server. This will remove server-side configurations stored in our databases.
+If you have connected the "service" to your Discord Server, you can request to receive a JSON File of the Server-side configuration data we hold about the Discord Server. You can also requst to erase any data we hold about you by removing the "service" from your Discord Server. This will remove server-side configurations stored in our databases.
 
 When requesting the Server-side Configuration Data, we'll have to confirm that the requester is the Server Owner, if we fail to confirm that the requester is the Server Owner, the data will not be given to the requester.
 
-You can also request a JSON file/an erase of your user-profile configuratiog
+You can also request a JSON file/an erase of your user-profile configuration.
+
 To receive these data, please contact a "service" developer.
 
 ## Where and When we will send the Requested Data
