@@ -35,3 +35,5 @@ Operating as a Discord Bot, we will send your Requested Data, to the requester's
 The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
 ## Effectiveness
+
+This Privacy Policy will take full effectiveness on the 1st of April, 2022.
