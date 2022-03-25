@@ -36,4 +36,4 @@ The security of your Personal Information is important to us, but remember that 
 
 ## Effectiveness
 
-This Privacy Policy will take full effectiveness on the 1st of April, 2022.
+This Privacy Policy is effective as of April 1st, 2022 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being changed on one of the Official Releases of the “service”.
