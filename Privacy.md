@@ -1,5 +1,7 @@
 # Introduction
 
+Last Updated: 25th March, 2022
+
 At EternalGaius, one of our main priorities  is the Privacy of our user's data. This Privacy Policy document contains the types of information that is collected and used by EternalGaius and how we use it to provide service to our users.
 
 For additional questions, do not hesitate to contact us via [Discord](https://discord.gg/9PnUBeu)
