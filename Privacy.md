@@ -14,13 +14,13 @@ By using EternalGaius (as referred - "service"), you consent to our Privacy Poli
 
 The "service" uses the Information you provide us only for improving and maintaining itself. By using the "service", you agree to the collection and usage of the information in accordance with this policy.
 
-Normally we only collect the data that the Discord API has given to us, however when getting dedicated assistance/support from the "service" developers, we may ask you for your Name, Email Address ("Personal Information"), and/or any other information that you wish to provide us with. If you wish not to provide these information, you may tell the "service" Developer that is currently assisting you.
+Normally we only collect the data that the Discord API has given to us, however when getting dedicated assistance/support from the "service" developers, we may ask you for your Name, Email Address ("Personal Information"), and/or any other information that you wish to provide us with.
 
 Any Personal Data we collect will not be kept permanent, the Personal Data you provide us will be immediately destroyed after the "Support/Assistance" regarding the "service"
 
 ## The rights you have over your data
 
-If you have connected the "service" to your Discord Server, you can request to receive a JSON File of the Server-side configuration data we hold about the Discord Server. You can also requst to erase any data we hold about you by removing the "service" from your Discord Server. This will remove server-side configurations stored in our databases.
+If you have connected the "service" to your Discord Server, you can request to receive a JSON File of the Server-side configuration data we hold about the Discord Server. You can also request to erase any data we hold about you by removing the "service" from your Discord Server. This will remove server-side configurations stored in our databases.
 
 When requesting the Server-side Configuration Data, we'll have to confirm that the requester is the Server Owner, if we fail to confirm that the requester is the Server Owner, the data will not be given to the requester.
 
