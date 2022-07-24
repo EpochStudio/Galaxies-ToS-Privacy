@@ -13,7 +13,7 @@ We reserve the rights, at our sole descretion, to suspend your access to the "se
 
 Your continued use of the Service after we announce any modifications to the Terms on this “service” will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Terms.
 
-These terms is effective as of July 4th, 2022 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being changed on one of the Official Releases of the “service”.
+These terms is effective as of July 25th, 2022 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being changed on one of the Official Releases of the “service”.
  
 ## Suspension
 If you violate any Terms listed above, the "service" developers reserve the right to issue you a warning regarding the violation or immediately suspend your access to the Service, depending on the offense.
