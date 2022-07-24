@@ -9,8 +9,7 @@ Our "service" allows you to post, link, store and otherwise make available certa
 Using any bugs/exploit of the "service" for Personal Benefits or affect the "service" stability/performance is completely prohibited.
 
 We reserve the right, at our sole descretion, to modify or replace these Terms at any time. If a revision is material, we will try to provide atleast 7 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
-
-We reserve the rights, at our sole descretion, to your access to the "service" without providing any reason.
+We reserve the rights, at our sole descretion, to suspend your access to the "service" without providing any reason.
 
 Your continued use of the Service after we announce any modifications to the Terms on this “service” will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Terms.
 
