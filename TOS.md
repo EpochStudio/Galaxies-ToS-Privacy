@@ -30,5 +30,3 @@ Please click [here](https://github.com/EternalGaiusOfficial/EternalGaiusToS-Priv
 If you violate any Terms listed above, the "service" developers reserve the right to issue you a warning regarding the violation or immediately suspend your access to the Service with or without reasons, depending on the offense.
 
 While you have the right to appeal your suspension to the "service", we do not guarantee that the "service" developers will approve your appeal, and do not guarantee that you'll be 100% whitelisted from all the "service" features, you may be denied to access certain features of the "service" in respect with your prior blacklisted reasons.
-
-**Any punishment decided is under the discretion of EternalGaius Developers**
