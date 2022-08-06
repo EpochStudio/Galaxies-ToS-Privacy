@@ -6,31 +6,37 @@ At EternalGaius, one of our main priorities  is the Privacy of our user's data. 
 
 For additional questions, do not hesitate to contact us via [Discord](https://discord.gg/9PnUBeu)
 
-# Privacy Policy
+## Consent
 
 By using EternalGaius (as referred - "service"), you consent to our Privacy Policy and agree to its terms. 
 
-## Data We Collect and Why we collect it
+## Information We Collect
 
-The "service" uses the Information you provide us only for improving and maintaining itself. By using the "service", you agree to the collection and usage of the information in accordance with this policy.
+The personal information that you are asked to provide, and the reason why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
 
-Normally we only collect the data that the Discord API has given to us, however when getting dedicated assistance/support from the "service" developers, we may ask you for your Name, Email Address ("Personal Information"), and/or any other information that you wish to provide us with.
+On the first Command you use of the "service", we collect your Discord User ID.
+We also have access to Message Content and Guild Member information, however we'll not store any Message Content data or sensitive Guild Member Information in our Database. 
 
-Any Personal Data we collect will not be kept permanent, the Personal Data you provide us will be immediately destroyed after the "Support/Assistance" regarding the "service"
+## How we utilise your information
 
-## The rights you have over your data
+We use the information we collect in various ways, including to:
+- Provide, operate and maintain the "service"
+- Improve, personalize and expand our "service"
+- Develop new services, features and functionality
 
-If you have connected the "service" to your Discord Server, you can request to receive a JSON File of the Server-side configuration data we hold about the Discord Server. You can also request to erase any data we hold about you by removing the "service" from your Discord Server. This will remove server-side configurations stored in our databases.
+## GDPR Data Protection Rights
 
-When requesting the Server-side Configuration Data, we'll have to confirm that the requester is the Server Owner, if we fail to confirm that the requester is the Server Owner, the data will not be given to the requester.
+We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following
 
-You can also request a JSON file/an erase of your user-profile configuration.
+The right to access - You have the right to request copies of your data.
 
-To receive these data, please contact a "service" developer.
+The right to rectification - You have the right to request that we correct any Information you believe is inaccurate. 
 
-## Regarding the Requested Data
+The right to erasure - You have the right to request that we erase your data, under certain conditions
 
-Operating as a Discord Bot, we will send your Requested Data, to the requester's DMs ("Direct Message") via the service (EternalGaius), and will send your data within 5 days, if you did not receive the data you requested within 5 days, please reach out to a "service" Developer.
+The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.
+
+The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
 
 ## How we secure your data
 
