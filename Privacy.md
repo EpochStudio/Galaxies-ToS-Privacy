@@ -1,6 +1,6 @@
 # Introduction
 
-Last Updated: 25th March, 2022
+Last Updated: 6th August, 2022
 
 At EternalGaius, one of our main priorities  is the Privacy of our user's data. This Privacy Policy document contains the types of information that is collected and used by EternalGaius and how we use it to provide service to our users.
 
@@ -44,4 +44,4 @@ The security of your Personal Information is important to us, but remember that 
 
 ## Effectiveness
 
-This Privacy Policy is effective as of April 1st, 2022 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being changed on one of the Official Releases of the “service”.
+This Privacy Policy is effective as of August 6th, 2022 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being changed on one of the Official Releases of the “service”.
