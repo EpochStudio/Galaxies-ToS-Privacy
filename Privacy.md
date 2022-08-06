@@ -40,7 +40,7 @@ The right to data portability – You have the right to request that we transfer
 
 ## How we secure your data
 
-The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+The security of your Personal Information and Data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
 ## Effectiveness
 
