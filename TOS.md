@@ -11,6 +11,8 @@ As mentioned above the "service" allows you to post, link, store and otherwise m
 - content involving harassment
 - NSFW (not safe for work) content
 - any sort of discrimination
+- threats of any kind
+- link to malicious content
 
 Using any bugs/exploit of the "service" for Personal Benefits or affect the "service" stability/performance is completely prohibited.
 
