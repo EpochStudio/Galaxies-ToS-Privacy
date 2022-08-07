@@ -1,6 +1,6 @@
 # Introduction
 
-Last Updated: 6th August, 2022
+Last Updated: 7th August, 2022
 
 At EternalGaius, one of our main priorities  is the Privacy of our user's data. This Privacy Policy document contains the types of information that is collected and used by EternalGaius and how we use it to provide service to our users.
 
@@ -36,6 +36,8 @@ The right to erasure - You have the right to request that we erase your data, un
 
 The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.
 
+The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.
+
 The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
 
 ## How we secure your data
@@ -44,4 +46,4 @@ The security of your Personal Information and Data is important to us, but remem
 
 ## Effectiveness
 
-This Privacy Policy is effective as of August 6th, 2022 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being changed on one of the Official Releases of the “service”.
+This Privacy Policy is effective as of August 7th, 2022 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being changed on one of the Official Releases of the “service”.
