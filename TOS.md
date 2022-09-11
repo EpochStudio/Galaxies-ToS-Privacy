@@ -12,7 +12,8 @@ As mentioned above, the "service" allows you to post, link, store and otherwise 
 - NSFW ("Not Safe For Work") content;
 - Any sort of discrimination;
 - Threats of any kind;
-- Link to malicious content.
+- Link to malicious content;
+- politics
 
 Using any bugs/exploit of the "service" for personal benefits or affecting the "service" stability/performance is completely prohibited.
 
