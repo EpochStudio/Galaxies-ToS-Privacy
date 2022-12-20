@@ -15,7 +15,7 @@ As mentioned above, the "service" allows you to post, link, store and otherwise 
 - Link to malicious content;
 - politics
 
-Using any bugs or exploits ("Unintended Functions") of the "service" for personal benefits or affecting the "service" performance or affecting others is strictly prohibited.
+Using any bugs or exploits ("Unintended Functions") of the "service" for personal benefits or affecting the "service" performance or using our "service" to affect others is strictly prohibited.
 
 ## Modifications
 We reserve the right, at our sole descretion, to modify or replace these Terms at any time. If a revision is material, we will try to provide at least a 7 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
