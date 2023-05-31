@@ -5,6 +5,8 @@ Thanks for choosing EternalGaius as your Server Utility Bot! By using EternalGai
 By using the "service", you immediately agree that you accept the Discord Terms of Service, and agree that your account can be suspended from using the "service" if you violate the Discord Terms of Service in any way.
 
 ## Service Guidelines and Restrictions
+
+### A) Content Posting
 Our "service" allows you to post, link, store and otherwise make available certain information, text or material ("Content"). You are responsible for the data you chose to share on your profile, and the "service" provider are not responsible for the information you share. However, actions will be taken if the "Content" violates the Discord Terms of Service, or the "service"'s Terms of Service in any way.
 
 As mentioned above, the "service" allows you to post, link, store and otherwise make available certain information, text or material ("Content"). If the content that you chose to share include(s) any but not limited to the following, your account will be permanently suspensed from the "service":
@@ -15,7 +17,11 @@ As mentioned above, the "service" allows you to post, link, store and otherwise 
 - Link to malicious content;
 - politics
 
-Using any bugs or exploits ("Unintended Functions") of the "service" for personal benefits or affecting the "service" performance or using our "service" to affect others is strictly prohibited.
+### B) Bugs and Exploits
+Using any bugs or exploits ("Unintended Functions") of the "service" for personal benefits or affecting the "service" performance is prohibited.
+
+### C) Be Mindful of Other User's Experience
+Using the "service" to affect other user's experience is strictly prohibited and will lead to an immediate suspension from the "service".
 
 ## Modifications
 We reserve the right, at our sole descretion, to modify or replace these Terms at any time. If a revision is material, we will try to provide at least a 7 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
