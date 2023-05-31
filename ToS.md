@@ -1,4 +1,4 @@
-# Terms of Service (Last Updated: 31st May, 2023)
+# Terms of Service
 Thanks for choosing EternalGaius as your Server Utility Bot! By using EternalGaius - which is collectively referred to as the "service" further - you agree with the following terms. If you disagree with any of these terms, you are prohibited from accessing the "service".
  
 ## Terms
@@ -28,7 +28,7 @@ We reserve the right, at our sole descretion, to modify or replace these Terms a
 
 Your continued use of the Service after we announce any modifications to the Terms on this “service” will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Terms.
 
-This Term of Service is effective as of August 6th, 2022 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being changed on one of the Official Releases of the “service”.
+This Term of Service is effective as of 31st May, 2023 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being changed on one of the Official Releases of the “service”.
 
 ## Privacy Policy
 Please click [here](https://github.com/EternalGaiusOfficial/EternalGaiusToS-Privacy/blob/main/Privacy.md) to read our Privacy Policy
