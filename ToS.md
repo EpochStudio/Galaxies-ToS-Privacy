@@ -14,7 +14,7 @@ Our "Service" allows you to post, link, store and otherwise make available certa
 - "Content" including threats of any kind;
 - "Content" including link(s) to malicious content, hyperlinked or directly linked;
 - "Content" discussing politics;
-- "Content" including any section violating __Discord's Terms of Service__ (hyperlink this)
+- "Content" including any section violating __[Discord's Terms of Service](https://discord.com/terms)__
 
 ### B) Bugs and Exploits
 Using any bugs or exploits ("Unintended Functions") of the "service" for personal benefits or affecting the "service" performance is prohibited.
