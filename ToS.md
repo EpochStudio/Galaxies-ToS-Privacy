@@ -7,14 +7,14 @@ By using the "service", you immediately agree that you accept the Discord Terms 
 ## Service Guidelines and Restrictions
 
 ### A) Content Posting
-Our "service" allows you to post, link, store and otherwise make available certain information, text or material ("Content"). You are responsible for the data you chose to share on your profile, and the "service" provider are not responsible for the information you share. However, actions will be taken if the "Content" includes but is not limited to the following:
-- Content involving harassment;
-- NSFW ("Not Safe For Work") content;
-- Any sort of discrimination;
-- Threats of any kind;
-- Link to malicious content;
-- Politics;
-- Content that violates the Discord Terms of Service
+Our "Service" allows you to post, link, store and otherwise make available certain information, text or material ("Content"). You are **fully** responsible for the data you chose to share on your profile, and we, the "Service" provider, will take no responsibility for the information you share. However, we reserve the rights to take any action against your "Content" and your access to the "service", if it/they include(s) but not limited to the following:
+
+- "Content" involving harassment;
+- "Content" referenced by/directly pointed towards NSFW (Not Safe For Work) content;
+- "Content" including threats of any kind;
+- "Content" including link(s) to malicious content, hyperlinked or directly linked;
+- "Content" discussing politics;
+- "Content" including any section violating __Discord's Terms of Service__ (hyperlink this)
 
 ### B) Bugs and Exploits
 Using any bugs or exploits ("Unintended Functions") of the "service" for personal benefits or affecting the "service" performance is prohibited.
