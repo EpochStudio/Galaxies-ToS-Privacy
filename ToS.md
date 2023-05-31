@@ -7,7 +7,7 @@ By using the "service", you immediately agree that you accept the Discord Terms 
 ## Service Guidelines and Restrictions
 
 ### A) Content Posting
-Our "Service" allows you to post, link, store and otherwise make available certain information, text or material ("Content"). You are **fully** responsible for the data you chose to share on your profile, and we, the "Service" provider, will take no responsibility for the information you share. However, we reserve the rights to take any action against your "Content" and your access to the "service", if it/they include(s) but not limited to the following:
+Our "Service" allows you to post, link, store and otherwise make available certain information, text or material ("Content"). You are **fully** responsible for the data you chose to share on your profile, and we, the "Service" provider, will take no responsibility for the information you share. However, we reserve the rights to take any action against your "Content" and revoke your access to the "service", if it/they include(s) but not limited to the following:
 
 - "Content" involving harassment;
 - "Content" referenced by/directly pointed towards NSFW (Not Safe For Work) content;
