@@ -1,4 +1,4 @@
-# Terms of Service
+# Terms of Service (Last Updated: 31st May, 2023)
 Thanks for choosing EternalGaius as your Server Utility Bot! By using EternalGaius - which is collectively referred to as the "service" further - you agree with the following terms. If you disagree with any of these terms, you are prohibited from accessing the "service".
  
 ## Terms
