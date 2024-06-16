@@ -39,12 +39,12 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 
 Your continued use of the "Service" after we announce any modifications to the Terms on this “Service” will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Terms.
 
-This document is effective as of 9th September 2023 and will remain in effect except concerning any changes in its provisions in the future, which will be in effect immediately after being changed on one of the Official Releases of the “service”.
+This document is effective as of 16th June 2024 and will remain in effect except concerning any changes in its provisions in the future, which will be in effect immediately after being changed on one of the Official Releases of the “service”.
 
 ## Privacy Policy
 Please click [here](https://github.com/EternalGaiusOfficial/EternalGaiusToS-Privacy/blob/main/Privacy.md) to read our Privacy Policy.
 
 ## Suspension
-If you violate any Terms listed above, the "service" developers reserve the right to issue you a warning regarding the violation or immediately suspend your access to the Service with or without reasons, depending on the offense.
+If you violate any Terms listed above, the "Service" developers reserve the right to issue you a warning regarding the violation or immediately suspend your access to the Service with or without reasons, depending on the offense.
 
 While you have the right to appeal your suspension to the "service", we do not guarantee that the "service" providers will approve your appeal, and do not guarantee that you'll be 100% whitelisted from all the "service" features, you may be denied to access certain features of the "service" in respect with your prior suspension reasons.
