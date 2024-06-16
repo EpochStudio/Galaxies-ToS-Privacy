@@ -12,7 +12,7 @@ If we don’t immediately act on any violation, given that they have not been co
 
 ## Service Guidelines and Restrictions
 
-### A) Content Posting
+### Content Posting
 Our "Service" allows you to post, link, store, and otherwise make available certain information, text or material ("Content"). You are **fully** responsible for the data you chose to share on your profile, and we, the "Service" provider, will take no responsibility for the information you share. However, we reserve the right to take any action against your "Content" or revoke your access to the "Service", if it/they include(s) but are not limited to the following:
 
 - "Content" involving harassment;
@@ -22,10 +22,17 @@ Our "Service" allows you to post, link, store, and otherwise make available cert
 - "Content" discussing politics;
 - "Content" including any section violating __[Discord's Terms of Service](https://discord.com/terms)__
 
-### B) Interruptions
+### Interruptions
 Using the "Service" to, directly or indirectly, affect other users' experience in any way is strictly prohibited. A suspension of your "Service" usage will be considered, depending on severity, if we find it the case.
 
 Using any unknown and/or unnoticed and/or unfixed bugs and/or exploits of the "Service" for any unintended and/or unfair behavior and/or affecting the "Service" in any way is prohibited. A suspension of your "Service" usage will be considered, depending on severity, if we find it the case.
+
+### Selling Accounts
+At EternalGaius, we offer collectible badges known as the "EternalGaius Badges" (referred to as "badges" or "bade" further.), to show our appreciation for the people who directly or indirectly contributed to the "service".
+
+Holders of these "badges" are responsible for preventing the selling of these "badges" to other users in exchange for any material or digital goods. What constitutes as "material or digital goods" will be determined at the "service" provider's sole discretion.
+
+If we find any "badge" holders violating this term, a removal of these "badges" from your "EternalGaius Profile Account" and/or a suspension to the "service" will be considered. This type of punishment will affect the "seller" of the badge and/or the "receiving user" of the "account" that these "badges" belong to.
 
 ## Modifications
 We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will try to provide at least a 7 days notice before any new terms take effect. What constitutes a material change will be determined at our sole discretion.
