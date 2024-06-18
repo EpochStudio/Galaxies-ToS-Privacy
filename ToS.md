@@ -28,7 +28,7 @@ Using the "Service" to, directly or indirectly, affect other users' experience i
 Using any unknown and/or unnoticed and/or unfixed bugs and/or exploits of the "Service" for any unintended and/or unfair behavior and/or affecting the "Service" in any way is prohibited. A suspension of your "Service" usage will be considered, depending on severity, if we find it the case.
 
 ### Selling Accounts
-At EternalGaius, we offer collectible badges known as the "EternalGaius Badges" (referred to as "badges" or "bade" further.), to show our appreciation for the people who directly or indirectly contributed to the "service".
+At EternalGaius, we offer collectible badges known as the "EternalGaius Badges" (referred to as "badges" or "badge" further.), to show our appreciation for the people who directly or indirectly contributed to the "service".
 
 Holders of these "badges" are responsible for preventing the selling of these "badges" to other users in exchange for any material or digital goods. What constitutes as "material or digital goods" will be determined at the "service" provider's sole discretion.
 
