@@ -1,5 +1,5 @@
 # Terms of Service
-Thank you for choosing EternalGaius as your Server Utility Discord bot. By using EternalGaius - which is collectively referred to as the "Service" further - you agree with the following Terms. If you disagree with any of these Terms, you are prohibited from accessing the "Service".
+Thank you for choosing Galaxies as your Server Utility Discord bot. By using Galaxies - which is collectively referred to as the "Service" further - you agree with the following Terms. If you disagree with any of these Terms, you are prohibited from accessing the "Service".
  
 ## General Terms
 *All Terms are exactly that: Terms. They are **not** guidelines and must **not** be violated under any circumstances.*
@@ -28,11 +28,11 @@ Using the "Service" to, directly or indirectly, affect other users' experience i
 Using any unknown and/or unnoticed and/or unfixed bugs and/or exploits of the "Service" for any unintended and/or unfair behavior and/or affecting the "Service" in any way is prohibited. A suspension of your "Service" usage will be considered, depending on severity, if we find it the case.
 
 ### Selling Accounts
-At EternalGaius, we offer collectible badges known as the "EternalGaius Badges" (referred to as "badges" or "badge" further.), to show our appreciation for the people who directly or indirectly contributed to the "service".
+At Galaxies, we offer collectible badges known as the "Galaxies Badges" (referred to as "badges" or "badge" further.), to show our appreciation for the people who directly or indirectly contributed to the "service".
 
 Holders of these "badges" are responsible for preventing the selling of these "badges" to other users in exchange for any material or digital goods. What constitutes as "material or digital goods" will be determined at the "service" provider's sole discretion.
 
-If we find any "badge" holders violating this term, a removal of these "badges" from your "EternalGaius Profile Account" and/or a suspension to the "service" will be considered. This type of punishment will affect the "seller" of the badge and/or the "receiving user" of the "account" that these "badges" belong to.
+If we find any "badge" holders violating this term, a removal of these "badges" from your "Galaxies Profile Account" and/or a suspension to the "service" will be considered. This type of punishment will affect the "seller" of the badge and/or the "receiving user" of the "account" that these "badges" belong to.
 
 ## Modifications
 We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will try to provide at least a 7 days notice before any new terms take effect. What constitutes a material change will be determined at our sole discretion.
@@ -42,7 +42,7 @@ Your continued use of the "Service" after we announce any modifications to the T
 This document is effective as of 16th June 2024 and will remain in effect except concerning any changes in its provisions in the future, which will be in effect immediately after being changed on one of the Official Releases of the “service”.
 
 ## Privacy Policy
-Please click [here](https://github.com/EternalGaiusOfficial/EternalGaiusToS-Privacy/blob/main/Privacy.md) to read our Privacy Policy.
+Please click [here](https://github.com/EpochStudio/Galaxies-ToS-Privacy/blob/main/Privacy.md) to read our Privacy Policy.
 
 ## Suspension
 If you violate any Terms listed above, the "Service" developers reserve the right to issue you a warning regarding the violation or immediately suspend your access to the Service with or without reasons, depending on the offense.
