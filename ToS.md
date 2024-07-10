@@ -59,7 +59,7 @@ We reserve the right to modify these Terms at any time. For material changes, we
 
 ## Section 4 - Privacy Policy
 
-Our Privacy Policy is available [here](https://github.com/GalaxiesOfficial/GalaxiesToS-Privacy/blob/main/Privacy.md).
+Our Privacy Policy is available [here](https://github.com/EpochStudio/Galaxies-ToS-Privacy/blob/main/Privacy_Policy.md).
 
 ## Section 5 - Suspension
 
