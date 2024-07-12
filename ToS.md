@@ -67,4 +67,4 @@ Violations of these Terms may result in warnings or immediate suspension from th
 
 While you have the right to appeal a suspension (unless explicitly stated otherwise), approval is not guaranteed. Access to certain features may be permanently restricted based on prior violations.
 
-This document is effective as of July 10th, 2024, and will remain in effect until replaced by a future version. Any changes to these Terms will be effective immediately upon posting of the revised Terms on the Official Releases of the Service.
+This document is effective as of July 12th, 2024, and will remain in effect until replaced by a future version. Any changes to these Terms will be effective immediately upon posting of the revised Terms on the Official Releases of the Service.
