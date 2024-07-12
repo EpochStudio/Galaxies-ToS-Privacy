@@ -36,7 +36,7 @@ We offer collectible "Galaxies Badges" to recognize contributors to the Service.
 Guilds may purchase Subscription Services to access additional features. These services are subject to the following conditions:
 
 #### 2.4.1 - Refund Policy
-Refund requests must be submitted within 20 days of purchase. Contact the Service providers via Discord to initiate a refund.
+Please open a ticket at [https://support.discord.com] to issue an refund.
 
 #### 2.4.2 - Trial Policy
 Guilds are eligible for a one-time, 14-day Trial Period of Subscription Services. This offer cannot be extended or repeated.
